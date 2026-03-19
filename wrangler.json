@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "vending-inventory",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "ebf22143-0a34-47de-8bfc-9e7967ef13db",
+			"database_name": "vending-inventory-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
